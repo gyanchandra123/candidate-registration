@@ -1,0 +1,7 @@
+div .panelBody{
+    background-image:url("../assets/EM.jpg");
+    background-repeat : no-repeat;
+    background-size:100%;
+    background-attachment:scroll;
+    height:480px
+}
